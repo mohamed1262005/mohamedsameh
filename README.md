@@ -1,7 +1,9 @@
-# Hi there! 👋 I'm Mohamed
+# Hi there! 👋 I'm Mohamed Sameh
 
-### 🚀 Smart AI & IoT Developer
-I'm a passionate developer focused on building systems that combine **Computer Vision** and **IoT** to solve real-world problems. I believe AI is a tool to improve human lives.
+### 🚀 AI Engineer | Computer Vision & IoT Developer
+I’m a passionate **AI Engineering student** focused on building smart systems that combine  
+**Computer Vision, Machine Learning, and IoT** to solve real-world problems.  
+I strongly believe that AI should be used to **improve human lives**, especially for people with special needs.
 
 ---
 
@@ -16,30 +18,31 @@ I'm a passionate developer focused on building systems that combine **Computer V
 
 ---
 
-### 🔭 Currently Working On
-- **[Smart Glasses for Visually Impaired]** - Combining Computer Vision & IoT using ESP32-CAM and Python to assist people with special needs.
+### 🔭 Current Project
+- **Smart Glasses for the Visually Impaired** 👓  
+  An assistive system using **ESP32-CAM + Python + Computer Vision** to detect objects, read text, and provide audio feedback in real time.
 
-### 🌱 Learning & Interest
-- **Advanced Machine Learning & Deep Learning.**
-- **Model Optimization** for edge devices (Real-time processing).
-- **Backend Integration** with Python.
+---
+
+### 🌱 Currently Learning
+- Advanced **Machine Learning & Deep Learning**
+- **Model Optimization** for Edge Devices
+- AI System Integration with Python Backends
+
+---
 
 ### 💬 Ask Me About
-- Python, AI Basics, Computer Vision, and how to start in AI step-by-step.
+- Python & AI fundamentals  
+- Computer Vision projects  
+- How to start learning AI step-by-step  
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+---
 
----### 📊 GitHub Stats
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PUT-YOUR-LINK-HERE)
 
-<p align="left">
-<img src="https://github-readme-stats-one-eight.vercel.app/api?username=mohamed1262005&show_icons=true&theme=tokyonight" alt="Mohamed Stats" />
-</p>
+---
 
-<p align="left">
-<img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=mohamed1262005&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed1262005&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 📊 GitHub Stats
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed1262005&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed1262005&layout=compact&theme=tokyonight)
